@@ -14,7 +14,7 @@ Any questions, queries or suggestions please contact the researchers responsible
 - Dra. Débora Torrealba: debora.torrealba@pucv.cl
 
 - Dra. Carolina Figueroa: carolina.figueroa@pucv.cl  
-  Fondecyt 3170744
+  [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3170744)
 
 
 # Relevant bioethics links and institutions
