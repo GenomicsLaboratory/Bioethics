@@ -8,6 +8,10 @@ In this repository you will find regulations, standards, protocols and certifica
 
 Any questions, queries or suggestions please contact the researchers responsible for the projects we have carried out.
 
+- Dr. José Gallardo Matus: jose.gallardo@pucv.cl
+- Dra. Débora Torrealba: debora.torrealba@pucv.cl
+- Dra. Carolina Figueroa: carolina.figueroa@pucv.cl
+
 # Relevant bioethics links and institutions
 
 - [Comité de Biotética PUCV](https://www.pucv.cl/uuaa/vriea/noticias/comite-de-bioetica-y-bioseguridad-pucv)
