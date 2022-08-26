@@ -7,3 +7,11 @@ Bioethics helps us to work rigorously, in such a way that we can explain and arg
 In this repository you will find regulations, standards, protocols and certificates of bioethics of the research we carry out in our laboratory.
 
 Any questions, queries or suggestions please contact the researchers responsible for the projects we have carried out.
+
+# Relevant bioethics links and institutions
+
+- [Comité de Biotética PUCV](https://www.pucv.cl/uuaa/vriea/noticias/comite-de-bioetica-y-bioseguridad-pucv)
+- [Agencia Nacional de Investigación y Desarrollo, ANID - Bioetica y bioseguridad](https://www.anid.cl/ejes-estrategicos/investigacion-aplicada/bioetica-y-bioseguridad/)
+- [Canadian Council on Animal Care](https://ccac.ca/)
+
+
