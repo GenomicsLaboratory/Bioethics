@@ -9,8 +9,11 @@ In this repository you will find regulations, standards, protocols and certifica
 Any questions, queries or suggestions please contact the researchers responsible for the projects we have carried out.
 
 - Dr. José Gallardo Matus: jose.gallardo@pucv.cl
+  Fondecyt 1140772
 - Dra. Débora Torrealba: debora.torrealba@pucv.cl
+
 - Dra. Carolina Figueroa: carolina.figueroa@pucv.cl
+
 
 # Relevant bioethics links and institutions
 
