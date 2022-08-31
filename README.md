@@ -12,11 +12,11 @@ Any questions, queries or suggestions please contact the researchers responsible
   a) [Fondecyt 1140772](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_1140772)  
   b) [Taller de verano Genes y genomas con programación](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PUCV_Taller_Genes_Genomas_2022)
   
-- Dra. Débora Torrealba: debora.torrealba@pucv.cl
-  a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3210502)
+- Dra. Débora Torrealba: debora.torrealba@pucv.cl  
+  a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3210502)  
 
 - Dra. Carolina Figueroa: carolina.figueroa@pucv.cl  
-  a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3170744)
+  a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3170744)  
 
 
 # Relevant bioethics links and institutions
