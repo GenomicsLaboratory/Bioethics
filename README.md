@@ -9,7 +9,7 @@ In this repository you will find regulations, standards, protocols and certifica
 Any questions, queries or suggestions please contact the researchers responsible for the projects we have carried out.
 
 - Dr. José Gallardo Matus: jose.gallardo@pucv.cl  
-  [Fondecyt 1140772](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_1140772)
+  [Fondecyt 1140772](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_1140772)  
   [Taller de verano Genes y genomas con programación](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PUCV_Taller_Genes_Genomas_2022)
   
 - Dra. Débora Torrealba: debora.torrealba@pucv.cl
