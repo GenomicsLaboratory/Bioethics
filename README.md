@@ -10,7 +10,7 @@ Any questions, queries or suggestions please contact the researchers responsible
 
 - Dr. José Gallardo Matus: jose.gallardo@pucv.cl  
   a) [Fondecyt 1140772](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_1140772)  
-  b) [Taller de verano Genes y genomas con programación](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PUCV_Taller_Genes_Genomas_2022)
+  b) [Taller de verano Genes y Genomas con Programación](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PUCV_Taller_Genes_Genomas_2022)
   
 - Dra. Débora Torrealba: debora.torrealba@pucv.cl  
   a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3210502)  
