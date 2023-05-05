@@ -11,6 +11,14 @@ Any questions, queries or suggestions please contact the researchers responsible
 - Dr. José Gallardo Matus: jose.gallardo@pucv.cl  
   a) [Fondecyt 1140772](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_1140772)  
   b) [Taller de verano Genes y Genomas con Programación](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PUCV_Taller_Genes_Genomas_2022)
+  c) [Proyecto Inmunidad y Estres Salmones](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Proyecto_Inmunidad_Estres_Salmones_Camanchaca)
+  d) [Proyecto Asociativo Inmunidad y Estres](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Proyecto_Inmunidad_Estres_Asociativo)
+  e) [PhD_Thesis_Paula_Valenzuela](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PhD_Thesis_Paula_Valenzuela)
+  f) [PhD_Thesis_Margarita_Rivera](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PhD_Thesis_Margarita_Rivera)
+  g) [PhD_Thesis_Jaqueline_Flores](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PhD_Thesis_Jaqueline_Flores)
+  h) [PHD_Thesis_Daniela_Lopez](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PHD_Thesis_Daniela_Lopez)
+  i) [PhD_Thesis_Cristobal_Dominguez](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PhD_Thesis_Cristobal_Dominguez)
+  j) [PhD_thesis_Carlos_Gutierrez](https://github.com/GenomicsLaboratory/Bioethics/tree/main/PhD_thesis_Carlos_Gutierrez)
   
 - Dra. Débora Torrealba: debora.torrealba@pucv.cl  
   a) [Fondecyt 3170744](https://github.com/GenomicsLaboratory/Bioethics/tree/main/Fondecyt_3210502)  
